@@ -1,0 +1,49 @@
+# Site settings
+title: Florian D. Schneider
+subtitle: The simplicity of complex things
+
+description: > # this means to ignore newlines until "baseurl:"
+  I am an environmental scientist working on biodiversity and ecological complexity [@Bik-F](http://www.bik-f.de/), Frankfurt am Main, Germany, for the [senate commission on biodiversity research of the german research council (DFG)](http://www.dfg.de/dfg_profil/gremien/senat/biodiversitaetsforschung/index.html).
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://fdschneider.github.io" # the base hostname & protocol for your site
+
+keywords: ecology, biodiversity, computational science, interaction strengths, ecological networks
+
+include: ["_assets", "_publications", "_pages"]
+
+social:
+  twitter: f_d_schneider
+  github: fdschneider
+  medium: fdschneider
+
+avatar: "_assets/schnecke_cut.jpg"
+disqus_short_name : fdschneider
+
+contacts:
+  email: fd.schneider@senckenberg.de
+  postal:
+    address1: Senckenberg Gesellschaft für Naturforschung
+    address2: Biodiversität und Klima - Forschungszentrum (Bik-F)
+    street: Senckenberganlage 25
+    zip: 60325
+    city: Frankfurt am Main
+    country: GERMANY
+  phone: +0049-69-7542-1914
+  pubkey:
+
+cv_file:
+publist_file:
+tags: theoretical ecology, food webs, biodiversity, science policy
+
+# Build settings
+markdown: kramdown
+kramdown:
+    input: GFM
+
+redcarpet:
+  extensions:
+    - footnotes
+    - hard_wrap
+    - no_intra_emphasis
+    - autolink
+    - strikethrough

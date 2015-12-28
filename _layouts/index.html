@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body>
+  <header class="landingpage">
+    {% include title.html %}
+    {% include info.html %}
+    {% include news.html %}
+
+ <div style="clear: both;"></div>
+  </header>
+
+    <div class="page-content">
+      <div class="wrapper">
+        {{ page.content | markdownify }}
+      </div>
+    </div>
+
+    {% include footer.html %}
+
+  </body>
+
+</html>

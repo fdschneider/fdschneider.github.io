@@ -1,0 +1,16 @@
+---
+permalink: /news/
+layout: page
+title: Newslog
+---
+
+
+	{% for post in site.posts %}
+		 <div class = "newslog">
+		 <p class = "newsdate"> {{ post.date | date_to_long_string }} </p>
+
+		 <h1>{{ post.title | markdownify }}</h1>
+
+			<div> {{ post.content | markdownify }} </div>
+			</div>
+	{% endfor %}

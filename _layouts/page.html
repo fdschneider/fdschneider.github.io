@@ -1,0 +1,29 @@
+---
+layout: default
+---
+<div class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title }}</h1>
+  </header>
+
+  <article class="post-content">
+
+    {% if page.date %}
+  	   <h5 style = "text-align: margin-top: -2em; margin-bottom: 2em;"> by <b>{{ page.author}}</b>, {{ page.date | date_to_long_string }}
+    {% endif %}
+    {% if page.medium %}
+      , <a href = "https://medium.com/{{ page.medium }}">read on Medium.com</a>
+    {% endif %}</h5>
+    {% if page.teaser %}
+    	<div class = "teaser"> {{ page.teaser | markdownify }} </div>
+    {% endif %}
+
+    	{{ content }}
+
+    {% include disqus.html %}
+
+
+  </article>
+
+</div>
