@@ -6,6 +6,7 @@ description: > # this means to ignore newlines until "baseurl:"
   I am an environmental scientist working on biodiversity and ecological complexity [@Bik-F](http://www.bik-f.de/), Frankfurt am Main, Germany, for the [senate commission on biodiversity research of the german research council (DFG)](http://www.dfg.de/dfg_profil/gremien/senat/biodiversitaetsforschung/index.html).
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://fdschneider.github.io" # the base hostname & protocol for your site
+relative_permalinks: true 
 
 keywords: ecology, biodiversity, computational science, interaction strengths, ecological networks
 
@@ -34,3 +35,6 @@ contacts:
 cv_file:
 publist_file:
 tags: theoretical ecology, food webs, biodiversity, science policy
+
+# Build settings
+markdown: kramdown
