@@ -34,16 +34,3 @@ contacts:
 cv_file:
 publist_file:
 tags: theoretical ecology, food webs, biodiversity, science policy
-
-# Build settings
-markdown: kramdown
-kramdown:
-    input: GFM
-
-redcarpet:
-  extensions:
-    - footnotes
-    - hard_wrap
-    - no_intra_emphasis
-    - autolink
-    - strikethrough
