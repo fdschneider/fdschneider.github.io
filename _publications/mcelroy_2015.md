@@ -5,7 +5,7 @@ layout: publication
 categories: article
 tag: marine
 title: "Size-balanced community reorganization in response to nutrients and warming"
-authors: "David J. McElroy, Eoin J. O'Gorman, Florian D. Schneider, Hanne Hetjens, Prune Le Merrer, Ross A. Coleman and Mark Emmerson"
+authors: "McElroy, D.J., O'Gorman, E.J., Schneider, F.D., Hetjens, H., Le Merrer, P., Coleman, R.A. & Emmerson, M."
 date: 01-09-2015
 sortdate: 2015-09-01
 journal: Global Change Biology
