@@ -7,7 +7,7 @@ title: "About ..."
 
 # ... myself
 
-My name is Florian Schneider and I am an environmental scientist, currently on a PostDoc position at [Biodiversity and Climate Research Center (Bik-F)](http://www.bik-f.de/), Frankfurt am Main, Germany.  I am the scientific secretary of the [senate commission on biodiversity research of the german research council (DFG)](http://www.dfg.de/dfg_profil/gremien/senat/biodiversitaetsforschung/index.html). My own research is about biodiversity and ecological complexity.
+My name is Florian Schneider and I am an interdisciplinary environmental scientist working on biodiversity topics.
 
 
 # ... the website

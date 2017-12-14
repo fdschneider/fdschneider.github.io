@@ -3,12 +3,12 @@ title: Florian D. Schneider
 subtitle: The simplicity of complex things
 
 description: > # this means to ignore newlines until "baseurl:"
-  I am an environmental scientist working on biodiversity and ecological complexity [@Bik-F](http://www.bik-f.de/), Frankfurt am Main, Germany, for the [senate commission on biodiversity research of the german research council (DFG)](http://www.dfg.de/dfg_profil/gremien/senat/biodiversitaetsforschung/index.html).
+  I am an interdisciplinary environmental scientist working on biodiversity and ecological complexity. Currently I am research associate at Technische Universität Darmstadt, Institute of Linguistics and Literary Studies.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://fdschneider.github.io" # the base hostname & protocol for your site
 relative_permalinks: false
 
-keywords: ecology, biodiversity, computational science, interaction strengths, ecological networks
+keywords: ecology, biodiversity, computational science, functional traits,  ecological networks, neonicotinoids, insect decline
 
 include: ["_assets", "_publications", "_pages"]
 
@@ -16,20 +16,22 @@ social:
   twitter: f_d_schneider
   github: fdschneider
   medium: fdschneider
+  instagram: fdschn
+  researchgate: Florian_Schneider12
 
 avatar: "_assets/schnecke_cut.jpg"
 disqus_short_name : fdschneider
 
 contacts:
-  email: fd.schneider@senckenberg.de
+  email: florian.dirk.schneider@gmail.com
   postal:
-    address1: Senckenberg Gesellschaft für Naturforschung
-    address2: Biodiversität und Klima - Forschungszentrum (Bik-F)
-    street: Senckenberganlage 25
-    zip: 60325
-    city: Frankfurt am Main
+    address1:
+    address2:
+    street:
+    zip: 64285
+    city: Darmstadt
     country: GERMANY
-  phone: +0049-69-7542-1914
+  phone:
   pubkey:
 
 cv_file:
