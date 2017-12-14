@@ -27,7 +27,7 @@ title: Table of Contents
 	<div class = "publist">
 
 		<ul>
-		{% assign publications = (site.pages | sort: 'sortdate' | reverse ) %}
+		{% assign publications = site.pages | sort: 'sortdate' | reverse  %}
 			{% for publication in publications %}
 			{% if publication.categories contains 'article' %}
 

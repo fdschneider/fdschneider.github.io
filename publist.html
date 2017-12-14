@@ -13,7 +13,7 @@ pdf: _assets/publist_schneider.pdf
 	<h2>Scientific articles</h2>
 	<div class = "publist">
 		<ul>
-    {% assign publications = (site.pages | sort: 'sortdate' | reverse ) %}
+    {% assign publications = site.pages | sort: 'sortdate' | reverse  %}
 		{% for publication in publications %}
 			{% if publication.categories contains 'article'%}
 			 <li>{% include publication.html %}</li>

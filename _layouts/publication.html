@@ -46,11 +46,7 @@ layout: default
 				{% endif %}
 			{% endfor %}
 
-			{% for project in site.pages %}
-				{% if project.categories contains 'project' and project.tag contains page.tag  and project.date != page.date%%}
-				 <li> {% include project.html %} </li>
-				{% endif %}
-			{% endfor %}
+
 			</ul>
 		</div>
 
