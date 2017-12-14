@@ -8,8 +8,9 @@ authors: "Schneider, F.D., Kéfi, S."
 date: 19-12-2015
 sortdate: 2015-12-19
 journal: Theoretical Ecology
-issue: 9
-pages: 207
+volume: 9
+issue: 2
+pages: 207-217
 doi: 10.1007/s12080-015-0289-1
 URL: http://link.springer.com/article/10.1007%2Fs12080-015-0289-1
 pdf: http://link.springer.com/content/pdf/10.1007%2Fs12080-015-0289-1.pdf

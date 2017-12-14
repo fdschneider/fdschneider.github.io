@@ -8,8 +8,9 @@ authors:  Brose, U., Blanchard, J. L., Eklöf, A., Galiana, N., Hartvig, M., R. 
 date:  12-01-2016
 sortdate: 2016-01-12
 journal: Biological Reviews
-volume:  
-pages:  
+volume:  92
+issue: 2
+pages:  684-697
 URL: http://onlinelibrary.wiley.com/doi/10.1111/brv.12250/abstract
 doi: 10.1111/brv.12250
 priority: B
