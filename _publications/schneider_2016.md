@@ -2,7 +2,7 @@
 permalink: /publications/schneider_2016/
 layout: publication
 categories: article
-tag: allometry
+tag: allometry, biodiversity
 title: Animal diversity and ecosystem functioning in dynamic food webs
 authors:  Schneider, F. D., Brose, U., Rall, B. C., Guill, C.
 date:  05-10-2016
@@ -14,7 +14,7 @@ URL: http://www.nature.com/articles/ncomms12718
 doi: 10.1038/ncomms12718
 pdf: http://www.nature.com/articles/ncomms12718.pdf
 supp_pdf:
-code: 
+code:
 priority: A
 ---
 

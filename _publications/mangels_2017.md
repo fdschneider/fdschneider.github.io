@@ -2,7 +2,7 @@
 permalink: /publications/mangels_2017/
 layout: publication
 categories: article
-tag: traits
+tag: biodiversity
 title: 'Diversity and trait composition of moths respond to land-use intensification in grasslands: generalists replace specialists'
 authors: Mangels, J., Fiedler, K., Schneider, F. D., Bluethgen, N.
 date:  20-08-2017

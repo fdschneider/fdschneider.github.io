@@ -4,13 +4,35 @@ layout: page
 title: Current Research
 ---
 
-## Biodiversity synthesis
+## Biodiversity and society
 
-My current position is a split between coordinating and supporting the [DFG Senate Commission on Biodiversity Research](http://www.dfg.de/dfg_profil/gremien/senat/biodiversitaetsforschung/index.html) and doing some original synthesis research on biodiversity. This allows me to pursue some thoughts I had on interpreting biodiversity from a systemic point of view that assumes that individual organisms form populations and communities in complex interactions and by doing so, produce ecosystem functions and services that are of interest to human wellbeing. Vice versa, anthropogenic pressures such as land use change and climate change are going to affect ecosystem functions only via affecting individual interactions in the first place.
+In my current work projects, I am interpreting biodiversity from a systemic point of view that assumes that individual organisms form populations and communities in complex interactions and by doing so, produce ecosystem functions and services that are of interest to human wellbeing. Vice versa, anthropogenic pressures such as land use change and climate change are going to affect ecosystem functions only via affecting individual interactions in the first place.
+I am involved in projects within the framework of the Biodiversity Exploratories, which investigate trait composition at the community level.
+
+The role that science takes in the process of negotiating biodiversity values are key. In my collaboration with ISOE, Frankfurt, and the linguistics department at TU Darmstadt, I am looking into the ways of knowledge transfer from scientific communities into the public.
 
 ### Collaborators
 
-[Markus Fischer](http://www.botany.unibe.ch/planteco/index.php), [Nico Blüthgen](http://www.bio.tu-darmstadt.de/biologie_1/mitarbeiter_1/mitarbeiterdetails_7937.de.jsp), [Jule Mangels](http://www.bio.tu-darmstadt.de/biologie_1/mitarbeiter_1/mitarbeiterdetails_15104.de.jsp)
+[Markus Fischer](http://www.botany.unibe.ch/planteco/index.php), [Pete Manning](), [Nico Blüthgen](http://www.bio.tu-darmstadt.de/biologie_1/mitarbeiter_1/mitarbeiterdetails_7937.de.jsp), [Jule Mangels](http://www.bio.tu-darmstadt.de/biologie_1/mitarbeiter_1/mitarbeiterdetails_15104.de.jsp),
+[Nina Janich](https://www.linglit.tu-darmstadt.de/index.php?id=janich), [Alexandra Lux](http://www.isoe.de/das-isoe/team/mitarbeitende/alexandra-lux/),  [Marion Mehring](http://www.isoe.de/das-isoe/team/mitarbeitende/marion-mehring/)
+
+### Relevant publications
+
+<div class = "publist">
+  <ul>
+  {% for publication in site.pages %}
+    {% if publication.categories contains 'article' and publication.tag contains 'biodiversity'%}
+     <li>{% include publication.html %} </li>
+    {% endif %} 			
+  {% endfor %}
+
+  {% for project in site.pages %}
+    {% if project.categories contains 'project' and project.tag contains 'biodiversity'%}
+    <li> {% include project.html %} </li>
+    {% endif %} 			
+  {% endfor %}
+  </ul>
+</div>
 
 ## Catastrophic Shifts in Drylands
 
