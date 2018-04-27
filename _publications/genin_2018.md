@@ -5,14 +5,17 @@ tag: cascade
 title: Spatially heterogeneous stressors can alter the performance of indicators of regime shifts
 authors: Alexandre Génin, Sabiha Majumder, Sumithra Sankaran, Florian D. Schneider, Alain Danet, Miguel Berdugo, Vishwesha Guttal, Sonia Kéfi
 date: 01-02-2018
+sortdate: 2018-02-01
 journal: Ecological Indicators
 issue: in press
 pages:
-doi: 10.1016/j.ecolind.2017.10.071
-URL: https://doi.org/10.1016/j.ecolind.2017.10.071
 publisher:
 city:
 conference:
+doi: 10.1016/j.ecolind.2017.10.071
+URL: https://doi.org/10.1016/j.ecolind.2017.10.071
+pdf:
+supp_pdf:
 priority: B
 ---
 
