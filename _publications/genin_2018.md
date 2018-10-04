@@ -1,20 +1,20 @@
 ---
 layout: publication
-categories: article, dissertation, talk, poster, other
+categories: article
 tag: cascade
 title: Spatially heterogeneous stressors can alter the performance of indicators of regime shifts
 authors: Alexandre Génin, Sabiha Majumder, Sumithra Sankaran, Florian D. Schneider, Alain Danet, Miguel Berdugo, Vishwesha Guttal, Sonia Kéfi
 date: 01-02-2018
 sortdate: 2018-02-01
 journal: Ecological Indicators
-issue: in press
-pages:
+volume: 94
+pages: 520-533
 publisher:
 city:
 conference:
 doi: 10.1016/j.ecolind.2017.10.071
 URL: https://doi.org/10.1016/j.ecolind.2017.10.071
-pdf:
+pdf: https://www.researchgate.net/profile/Alexandre_Genin/publication/322879687_Spatially_heterogeneous_stressors_can_alter_the_performance_of_indicators_of_regime_shifts/links/5b9a7dd7a6fdccd3cb50e6e2/Spatially-heterogeneous-stressors-can-alter-the-performance-of-indicators-of-regime-shifts.pdf
 supp_pdf:
 priority: B
 ---
