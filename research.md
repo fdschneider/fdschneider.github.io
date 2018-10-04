@@ -13,8 +13,8 @@ The role that science takes in the process of negotiating biodiversity values ar
 
 ### Collaborators
 
-[Markus Fischer](http://www.botany.unibe.ch/planteco/index.php), [Pete Manning](), [Nico Blüthgen](http://www.bio.tu-darmstadt.de/biologie_1/mitarbeiter_1/mitarbeiterdetails_7937.de.jsp), [Jule Mangels](http://www.bio.tu-darmstadt.de/biologie_1/mitarbeiter_1/mitarbeiterdetails_15104.de.jsp),
-[Nina Janich](https://www.linglit.tu-darmstadt.de/index.php?id=janich), [Alexandra Lux](http://www.isoe.de/das-isoe/team/mitarbeitende/alexandra-lux/),  [Marion Mehring](http://www.isoe.de/das-isoe/team/mitarbeitende/marion-mehring/)
+[Markus Fischer](http://www.botany.unibe.ch/planteco/index.php), [Pete Manning](http://www.bik-f.de/root/index.php?page_id=1051), [Nico Blüthgen](https://www.econetlab.net/prof-dr-nico-bluethgen),
+[Nina Janich](https://www.linglit.tu-darmstadt.de/index.php?id=janich), [Alexandra Lux](http://www.isoe.de/das-isoe/team/mitarbeitende/alexandra-lux/)
 
 ### Relevant publications
 
