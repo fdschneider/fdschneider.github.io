@@ -38,7 +38,7 @@ layout: default
 		<div class = "publist" style = "font-size: 0.8em; line-height:110%">
 			<ul>
 			{% for publication in site.pages %}
-				{% if publication.categories contains 'article' and publication.tag contains page.tag and publication.date != page.date%}
+				{% if  publication.tag contains page.tag and publication.date != page.date%}
 				 <li>	 {% include publication.html %}		 </li>
 				{% endif %}
 			{% endfor %}
