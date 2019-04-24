@@ -23,11 +23,24 @@ pdf: _assets/publist_schneider.pdf
 	</div>
 
 
+		<h2>Pre-print publications</h2>
+		<div class = "publist">
+			<ul>
+	    {% assign publications = site.pages | sort: 'sortdate' | reverse  %}
+			{% for publication in publications %}
+				{% if publication.categories contains 'preprint'%}
+				 <li>{% include publication.html %}</li>
+				{% endif %}
+			{% endfor %}
+			</ul>
+		</div>
+
 	<h2>Software projects</h2>
 	<div class = "publist">
 
 	  <ul>
-	  {% for project in site.pages %}
+	    {% assign projects = site.pages | sort: 'sortdate' | reverse  %}
+	  {% for project in projects %}
 	    {% if project.categories contains 'project' %}
 
 	    <li>{% include project.html %}
@@ -54,7 +67,7 @@ pdf: _assets/publist_schneider.pdf
 	</div>
 
 
-
+<!--
 	<h2>Conference contributions</h2>
 
 	<h3>Presentations</h3>
@@ -72,7 +85,7 @@ pdf: _assets/publist_schneider.pdf
 		{% endfor %}
 		</ul>
 	</div>
-
+-->
 
 
 	</div>
