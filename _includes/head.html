@@ -6,10 +6,10 @@
   <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
   <meta name="keywords" content="{% if page.keywords %}{{ page.keywords }}{% else %}{{ site.keywords }}{% endif %}">
-  <meta name="twitter:card" content="{% if page.titleimg %} {{summary_large_image}}{% else %}{{summary}}{% endif %}">
+  <meta name="twitter:card" content="{% if page.titleimg %}{{'summary_large_image'}}{% else %}{{'summary'}}{% endif %}">
   <meta name="twitter:site" content="@f_d_schneider">
   <meta name="twitter:creator" content="@f_d_schneider">
-  {% if page.title %}<meta name="twitter:title" content= {{page.title}}>{% endif %}
+  {% if page.title %}<meta name="twitter:title" content= "{{page.title}}">{% endif %}
   <meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
   <meta name="twitter:image" content="{% if page.titleimg %}{{page.titleimg}}{% else %}{{site.avatar}}{% endif %}">
 
