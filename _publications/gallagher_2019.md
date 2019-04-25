@@ -12,6 +12,8 @@ pages: ''
 doi: 10.32942/osf.io/kac45
 pdf: https://ecoevorxiv.org/kac45/download
 URL: https://ecoevorxiv.org/kac45/
+titleimg: https://www.researchgate.net/profile/Caterina_Penone/publication/332352194/figure/fig1/AS:747912753586180@1555327704672/The-six-core-principles-of-Open-Science-which-guide-the-Open-Traits-Network_W640.jpg
+excerpt: Synthesising trait observations and knowledge across the Tree of Life remains a grand challenge for biodiversity science. Here, we introduce the Open Traits Network (OTN) – a decentralised alliance of international researchers and institutions focused on collaborative integration and standardisation of the exponentially increasing availability of trait data across all organisms.
 publisher:
 city:
 conference:
