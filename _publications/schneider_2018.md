@@ -1,5 +1,4 @@
 ---
-permalink: /publications/schneider_2018/
 layout: publication
 categories: preprint
 tag: traits
@@ -13,6 +12,7 @@ pages: 328302
 doi: 10.1101/328302
 URL:
 pdf: https://www.biorxiv.org/content/biorxiv/early/2018/05/31/328302.full-text.pdf
+
 excerpt: In order to facilitate the standardisation of distributed trait datasets, we propose a general and simple vocabulary as well as a simple data structure for storing and sharing ecological trait data.
 publisher:
 city:

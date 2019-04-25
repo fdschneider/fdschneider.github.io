@@ -18,6 +18,7 @@ social:
   medium: fdschneider
   instagram: fdschn
   researchgate: Florian_Schneider12
+  orcid: 0000-0002-1494-5684
 
 avatar: "_assets/schnecke_cut.jpg"
 disqus_short_name : fdschneider
@@ -36,7 +37,7 @@ contacts:
 
 cv_file:
 publist_file:
-tags: theoretical ecology, food webs, biodiversity, science policy
+tags: theoretical ecology, food webs, biodiversity, science policy, traits, allometry
 
 # Build settings
 markdown: kramdown
