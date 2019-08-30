@@ -3,7 +3,7 @@ title: Florian D. Schneider
 subtitle: "Dr. rer. nat."
 
 description: > # this means to ignore newlines until "baseurl:"
-  I am an ecologist and environmental scientist working on biodiversity valuation and ecological complexity.  Currently I am a freelance researcher and developer and a research associate at Technische Universität Darmstadt.
+  I am an ecologist and environmental scientist working on biodiversity valuation and ecological transformation. Researcher at ISOE Institute for Social-ecological Research in Frankfurt, Germany and a freelance lecturer, researcher and developer.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://fdschneider.github.io" # the base hostname & protocol for your site
 relative_permalinks: false
