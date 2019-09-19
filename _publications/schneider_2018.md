@@ -20,6 +20,8 @@ conference:
 priority: A
 ---
 
+**Now published in Methods in Ecology and Evolution doi: [10.1111/2041-210X.13288](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.13288)**
+
 # Abstract
 
 1. Trait-based approaches are widespread throughout ecological research, offering great potential for trait data to deliver general and mechanistic conclusions. Accordingly,a wealth of trait data is available for many organism groups, but, due to a lack of standardisation, these data come in heterogeneous formats.
