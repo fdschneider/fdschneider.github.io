@@ -11,7 +11,7 @@
   <meta name="twitter:creator" content="@f_d_schneider">
   {% if page.title %}<meta name="twitter:title" content= "{{page.title}}">{% endif %}
   <meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
-  <meta name="twitter:image" content="{% if page.titleimg %}{{page.titleimg}}{% else %}{{site.avatar | prepend: '/'| prepend: site.baseurl | prepend: site.url }}{% endif %}">
+  <meta name="twitter:image" content="{% if page.image %}{{page.image}}{% else %}{{site.avatar | prepend: '/'| prepend: site.baseurl | prepend: site.url }}{% endif %}">
 
   <link rel="stylesheet" href="_assets/et-book/et-book.css">
   <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
