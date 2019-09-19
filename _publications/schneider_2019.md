@@ -1,6 +1,6 @@
 ---
 layout: publication
-categories: preprint
+categories: article
 tag: traits
 title: Towards an Ecological Trait-data Standard
 authors: Schneider, F. D., M. Jochum, G. L. Provost, A. Ostrowski, C. Penone, D. Fichtmueller, A. Güntsch, M. M. Gossner, B. König-Ries, P. Manning, and N. K. Simons.
