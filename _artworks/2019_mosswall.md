@@ -10,5 +10,5 @@ event:
 location: Darmstadt, Germany
 sortdate: 2019-04-15
 date: 15-04-2019
-image: /_assets/images/mosswall.jpg
+image: /_assets/images/mosswall.JPG
 ---

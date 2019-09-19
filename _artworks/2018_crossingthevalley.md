@@ -10,5 +10,5 @@ event: 9th International Forest Art Path
 location: Darmstadt, Germany
 sortdate: 2018-08-10
 date: 10-08-2018
-image: /_assets/images/crossingthevalley.jpg
+image: /_assets/images/crossingthevalley.JPG
 ---
