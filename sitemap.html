@@ -40,6 +40,30 @@ title: Table of Contents
 		</ul>
 	</div>
 
+	<h2> Artworks </h2>
+
+		<div class = "publist">
+
+			<ul>
+			{% assign artworks = site.pages | sort: 'sortdate' | reverse  %}
+				{% for artwork in artworks %}
+				{% if artwork.categories contains 'artwork' %}
+
+				 <li>
+
+				 	  <a href= "{% if artwork.URL %}{{artwork.URL}}{% else %}{{ BASE_PATH }}{{artwork.url}}{% endif %}">
+				 	    <h4>{{ artwork.title }}</h4>
+				 	    <i>by</i> {{ artwork.authors }} ({{ artwork.date | date: "%Y"}}) <br>
+				 	    {% if artwork.event %}<i>at</i> {{ artwork.event }}
+				 	    {% endif %}
+			
+				 </li>
+
+				{% endif %}
+			{% endfor %}
+			</ul>
+		</div>
+
 	<h2> Newsfeed </h2>
 
 	<div>
