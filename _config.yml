@@ -10,7 +10,7 @@ relative_permalinks: false
 
 keywords: ecology, biodiversity, computational science, functional traits, ecological informatics, ecological networks, neonicotinoids, insect decline
 
-include: ["_assets", "_publications", "_pages"]
+include: ["_assets", "_publications", "_pages", "_artworks"]
 
 social:
   twitter: f_d_schneider
