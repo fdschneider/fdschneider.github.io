@@ -7,8 +7,8 @@ authors: Schneider, F. D., M. Jochum, G. L. Provost, A. Ostrowski, C. Penone, D.
 sortdate: 2019-08-19
 date: 19-08-2019
 journal: Methods in Ecology and Evolution
-volume:
-pages: 328302
+volume: (early view)
+pages:
 doi: 10.1111/2041-210X.13288
 URL:
 pdf: https://besjournals.onlinelibrary.wiley.com/doi/pdf/10.1111/2041-210X.13288
