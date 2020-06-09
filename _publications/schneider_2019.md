@@ -7,10 +7,13 @@ authors: Schneider, F. D., M. Jochum, G. L. Provost, A. Ostrowski, C. Penone, D.
 sortdate: 2019-08-19
 date: 19-08-2019
 journal: Methods in Ecology and Evolution
-volume: (early view)
-pages:
+volume: 10
+issue: 12
+pages: 2006-2019
 doi: 10.1111/2041-210X.13288
 URL:
+license: Creative Commons Attribution 4.0 International
+license_url: https://creativecommons.org/licenses/by/4.0/
 pdf: https://besjournals.onlinelibrary.wiley.com/doi/pdf/10.1111/2041-210X.13288
 
 excerpt: In order to facilitate the standardisation of distributed trait datasets, we propose a general and simple vocabulary as well as a simple data structure for storing and sharing ecological trait data.
