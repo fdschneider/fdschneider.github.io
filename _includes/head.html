@@ -12,7 +12,14 @@
   {% if page.title %}<meta name="twitter:title" content= "{{page.title}}">{% endif %}
   <meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
   <meta name="twitter:image" content="{% if page.image %}{{page.image  | prepend: site.baseurl | prepend: site.url}}{% else %}{{site.avatar | prepend: '/'| prepend: site.baseurl | prepend: site.url }}{% endif %}">
-
+  {% if page.layout == "publication" %}<meta name="citation_title" content="{{ page.title }}">
+  <meta name="citation_date" content="{{ page.sortdate }}">
+  <meta name="citation_authors" content ="{{ page.authors }}">
+  <meta name="citation_journal_title" content="{{ page.journal }}">
+  <meta name="citation_doi" content="{{ page.doi }}">
+  <meta name="citation_volume" content="{{ page.volume }}">
+  <meta name="citation_issue" content="{{ page.issue }}">
+  <meta name="citation_pdf_url" content="{{ page.pdf }}"> {% endif %}
   <link rel="stylesheet" href="_assets/et-book/et-book.css">
   <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
