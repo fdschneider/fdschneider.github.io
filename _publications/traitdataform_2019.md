@@ -5,9 +5,9 @@ layout: publication
 tag: traits
 title: 'traitdataform: Formatting and Harmonizing Ecological Trait-Data'
 authors: "Schneider, F.D."
-version: v0.5.3
-date: 16-04-2019
-sortdate: 2019-04-16
+version: v0.6.2
+date: 11-03-2021
+sortdate: 2021-03-11
 github: ecologicaltraitdata/traitdataform
 vignette: https://ecologicaltraitdata.github.io/traitdataform/
 cran: traitdataform
