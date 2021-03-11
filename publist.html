@@ -23,17 +23,29 @@ pdf: _assets/publist_schneider.pdf
 	</div>
 
 
-		<h2>Pre-print publications</h2>
-		<div class = "publist">
-			<ul>
-	    {% assign publications = site.pages | sort: 'sortdate' | reverse  %}
-			{% for publication in publications %}
-				{% if publication.categories contains 'preprint'%}
-				 <li>{% include publication.html %}</li>
-				{% endif %}
-			{% endfor %}
-			</ul>
-		</div>
+	<h2>Pre-print publications</h2>
+	<div class = "publist">
+		<ul>
+    {% assign publications = site.pages | sort: 'sortdate' | reverse  %}
+		{% for publication in publications %}
+			{% if publication.categories contains 'preprint'%}
+			 <li>{% include publication.html %}</li>
+			{% endif %}
+		{% endfor %}
+		</ul>
+	</div>
+
+	<h2>Other publications</h2>
+	<div class = "publist">
+		<ul>
+    {% assign publications = site.pages | sort: 'sortdate' | reverse  %}
+		{% for publication in publications %}
+			{% if publication.categories contains 'other'%}
+			 <li>{% include publication.html %}</li>
+			{% endif %}
+		{% endfor %}
+		</ul>
+	</div>
 
 	<h2>Software projects</h2>
 	<div class = "publist">
