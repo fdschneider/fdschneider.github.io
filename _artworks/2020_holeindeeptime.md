@@ -10,7 +10,7 @@ event:
 location: An abandoned quarry, Germany
 sortdate: 2020-06-29
 date: 29-06-2020
-image: /_assets/images/holeindeeptime_01.JPG
+image: /_assets/images/holeindeeptime_01.jpg
 ---
 With the help of massive Explosives, rock has been excavated in industrial scale, leaving an opening into a lost world. A section into earth history. A window into ‘deep time’, long before the evolution of higher life forms on earth: the layers of rock are billions of years old, risen from the depth of the earth mantle.
 
